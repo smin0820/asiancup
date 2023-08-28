@@ -6,7 +6,7 @@ import NotFound from './pages/NotFound';
 import Home from './pages/Home';
 import reportWebVitals from './reportWebVitals';
 import { RouterProvider, createBrowserRouter } from 'react-router-dom';
-import Roster from './pages/Player';
+import PlayerList from './pages/PlayerList';
 import Cheer from './pages/Cheer';
 import Manager from './pages/Manager';
 import Predict from './pages/Predict';
@@ -18,7 +18,7 @@ const router = createBrowserRouter([
     errorElement: <NotFound />,
     children: [
       { index: true, path: '/', element: <Home /> },
-      { path:'/player', element: <Roster />},
+      { path:'/playerlist', element: <PlayerList />},
       { path:'/cheer', element: <Cheer />},
       { path:'/manager', element: <Manager />},
       { path:'/predict', element: <Predict />},
