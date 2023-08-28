@@ -1,0 +1,562 @@
+{
+    "ranktable":[
+        {
+            "id": 0,            
+            "groupname": "Group A"
+        },
+        {
+            "id": 1, 
+            "groupname": "Group B"
+        },
+        {
+            "id": 2, 
+            "groupname": "Group C"
+        },
+        {
+            "id": 3, 
+            "groupname": "Group D"
+        },
+        {
+            "id": 4, 
+            "groupname": "Group E"
+        },
+        {
+            "id": 5, 
+            "groupname": "Group F"
+        }
+    ],
+    "tablecol": [
+        "순위", "국가", "경기수", "승", "무", "패", "승점", "득실차"
+    ],
+    "ranktable2" : {
+        "Group A": [
+            {
+                "id": 0,
+                "rank": 1,
+                "country": "카타르",
+                "games": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "point": 0,
+                "goaldiffrence": 0
+            },
+            {
+                "id": 1,
+                "rank": 2,
+                "country": "중국",
+                "games": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "point": 0,
+                "goaldiffrence": 0
+            },
+            {
+                "id": 2,
+                "rank": 3,
+                "country": "타지키스탄",
+                "games": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "point": 0,
+                "goaldiffrence": 0
+            },
+            {
+                "id": 3,
+                "rank": 4,
+                "country": "레바논",
+                "games": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "point": 0,
+                "goaldiffrence": 0
+            }
+        ],
+        "Group B": [
+            {
+                "id": 0,
+                "rank": 1,
+                "country": "호주",
+                "games": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "point": 0,
+                "goaldiffrence": 0
+            },
+            {
+                "id": 1,
+                "rank": 2,
+                "country": "우즈베키스탄",
+                "games": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "point": 0,
+                "goaldiffrence": 0
+            },
+            {
+                "id": 2,
+                "rank": 3,
+                "country": "시리아",
+                "games": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "point": 0,
+                "goaldiffrence": 0
+            },
+            {
+                "id": 3,
+                "rank": 4,
+                "country": "인도",
+                "games": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "point": 0,
+                "goaldiffrence": 0
+            }
+        ],
+        "Group C": [
+            {
+                "id": 0,
+                "rank": 1,
+                "country": "이란",
+                "games": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "point": 0,
+                "goaldiffrence": 0
+            },
+            {
+                "id": 1,
+                "rank": 2,
+                "country": "아랍에미리트",
+                "games": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "point": 0,
+                "goaldiffrence": 0
+            },
+            {
+                "id": 2,
+                "rank": 3,
+                "country": "홍콩",
+                "games": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "point": 0,
+                "goaldiffrence": 0
+            },
+            {
+                "id": 3,
+                "rank": 4,
+                "country": "팔레스타인",
+                "games": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "point": 0,
+                "goaldiffrence": 0
+            }
+        ],
+        "Group D": [
+            {
+                "id": 0,
+                "rank": 1,
+                "country": "일본",
+                "games": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "point": 0,
+                "goaldiffrence": 0
+            },
+            {
+                "id": 1,
+                "rank": 2,
+                "country": "인도네시아",
+                "games": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "point": 0,
+                "goaldiffrence": 0
+            },
+            {
+                "id": 2,
+                "rank": 3,
+                "country": "이라크",
+                "games": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "point": 0,
+                "goaldiffrence": 0
+            },
+            {
+                "id": 3,
+                "rank": 4,
+                "country": "베트남",
+                "games": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "point": 0,
+                "goaldiffrence": 0
+            }
+        ],
+        "Group E": [
+            {
+                "id": 0,
+                "rank": 1,
+                "country": "대한민국",
+                "games": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "point": 0,
+                "goaldiffrence": 0
+            },
+            {
+                "id": 1,
+                "rank": 2,
+                "country": "말레이시아",
+                "games": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "point": 0,
+                "goaldiffrence": 0
+            },
+            {
+                "id": 2,
+                "rank": 3,
+                "country": "요르단",
+                "games": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "point": 0,
+                "goaldiffrence": 0
+            },
+            {
+                "id": 3,
+                "rank": 4,
+                "country": "바레인",
+                "games": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "point": 0,
+                "goaldiffrence": 0
+            }
+        ],
+        "Group F": [
+            {
+                "id": 0,
+                "rank": 1,
+                "country": "사우디아라비아",
+                "games": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "point": 0,
+                "goaldiffrence": 0
+            },
+            {
+                "id": 1,
+                "rank": 2,
+                "country": "태국",
+                "games": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "point": 0,
+                "goaldiffrence": 0
+            },
+            {
+                "id": 2,
+                "rank": 3,
+                "country": "키르기스스탄",
+                "games": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "point": 0,
+                "goaldiffrence": 0
+            },
+            {
+                "id": 3,
+                "rank": 4,
+                "country": "오만",
+                "games": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "point": 0,
+                "goaldiffrence": 0
+            }
+        ]
+    },
+    "player": [
+        {
+            "id": 0,    
+            "koname": "오현규",
+            "enname": "OH Hyeongyu",
+            "birth": "2001.04.12",
+            "heghitweight": "183Cm / 72Kg",
+            "team": "셀틱 FC(스코틀랜드)",
+            "position": "FW",
+            "imageURL": "https://www.joinkfa.com/generate/CommonFile/ImageView.do?path=NAT/2023&name=%EC%82%AC%EC%A7%84_2023032111120441251.JPG"
+        },
+        {
+            "id": 1,
+            "koname": "조규성",
+            "enname": "CHO Guesung",
+            "birth": "1998.01.25",
+            "heghitweight": "189Cm / 82Kg",
+            "team": "FC 미트윌란(덴마크)",
+            "position": "FW",
+            "imageURL": "https://www.joinkfa.com/generate/CommonFile/ImageView.do?path=NAT/2022&name=%EC%82%AC%EC%A7%84_2022092207345228338.jpg"
+        },
+        {
+            "id": 2,
+            "koname": "황의조",
+            "enname": "HWANG Uijo",
+            "birth": "1992.08.28",
+            "heghitweight": "183Cm / 73Kg",
+            "team": "노팅엄 포레스트 FC",
+            "position": "FW",
+            "imageURL": "https://www.joinkfa.com/generate/CommonFile/ImageView.do?path=NAT/2022&name=%EC%82%AC%EC%A7%84_2022092207350388212.jpg"
+        },
+        {
+            "id": 3,
+            "koname": "나상호",
+            "enname": "NA Sangho",
+            "birth": "1996.08.12",
+            "heghitweight": "173Cm / 70Kg",
+            "team": "FC서울",
+            "position": "MF",
+            "imageURL": "https://www.joinkfa.com/generate/CommonFile/ImageView.do?path=NAT/2022&name=%EC%82%AC%EC%A7%84_2022092207313338443.jpg"
+        },
+        {
+            "id": 4,
+            "koname": "문선민",
+            "enname": "MOON Seonmin",
+            "birth": "1992.06.09",
+            "heghitweight": "172Cm / 68Kg",
+            "team": "전북현대모터스",
+            "position": "MF",
+            "imageURL": "https://www.joinkfa.com/generate/CommonFile/ImageView.do?path=NAT/2023&name=%25EC%2582%25AC%25EC%25A7%2584_2023061611415854373.jpg"
+        },
+        {
+            "id": 5,
+            "koname": "박용우",
+            "enname": "PARK Yongwoo",
+            "birth": "1993.09.10",
+            "heghitweight": "186Cm / 79Kg",
+            "team": "울산현대",
+            "position": "MF",
+            "imageURL": "https://www.joinkfa.com/generate/CommonFile/ImageView.do?path=NAT/2023&name=%25EC%2582%25AC%25EC%25A7%2584_2023061611421760832.jpg"
+        },
+        {
+            "id": 6,
+            "koname": "손준호",
+            "enname": "SON Junho",
+            "birth": "1992.05.12",
+            "heghitweight": "178Cm / 62Kg",
+            "team": "산둥 타이산 FC(중국)",
+            "position": "MF",
+            "imageURL": "https://www.joinkfa.com/generate/CommonFile/ImageView.do?path=NAT/2022&name=%25EC%2582%25AC%25EC%25A7%2584_2022092207323540152.jpg"
+        },
+        {
+            "id": 7,
+            "koname": "손흥민",
+            "enname": "SON Heungmin",
+            "birth": "1992.07.08",
+            "heghitweight": "183Cm / 78JKg",
+            "team": "토트넘(잉글랜드)",
+            "position": "MF",
+            "imageURL": "https://www.joinkfa.com/generate/CommonFile/ImageView.do?path=NAT/2022&name=%EC%82%AC%EC%A7%84_2022092207324860557.jpg"
+        },
+        {
+            "id": 8,
+            "koname": "원두재",
+            "enname": "WON Dujae",
+            "birth": "1997.11.18",
+            "heghitweight": "187Cm / 80Kg",
+            "team": "김천상무프로축구단",
+            "position": "MF",
+            "imageURL": "https://www.joinkfa.com/generate/CommonFile/ImageView.do?path=NAT/2023&name=%25EC%2582%25AC%25EC%25A7%2584_2023061611430840360.jpg"
+        },
+        {
+            "id": 9,
+            "koname": "이강인",
+            "enname": "LEE Kangin",
+            "birth": "2001.02.19",
+            "heghitweight": "173Cm / 63Kg",
+            "team": "파리 생제르맹 FC(프랑스)",
+            "position": "MF",
+            "imageURL": "https://www.joinkfa.com/generate/CommonFile/ImageView.do?path=NAT/2022&name=%25EC%2582%25AC%25EC%25A7%2584_2022092207332743807.jpg"
+        },
+        {
+            "id": 10,
+            "koname": "이재성",
+            "enname": "LEE Jaesung",
+            "birth": "1992.08.10",
+            "heghitweight": "180Cm / 70Kg",
+            "team": "FSV 마인츠05(독일)",
+            "position": "MF",
+            "imageURL": "https://www.joinkfa.com/generate/CommonFile/ImageView.do?path=NAT/2022&name=%25EC%2582%25AC%25EC%25A7%2584_2022092207333993248.jpg"
+        },
+        {
+            "id": 11,
+            "koname": "홍현석",
+            "enname": "HONG Hyunseok",
+            "birth": "1999.06.16",
+            "heghitweight": "175Cm / 66Kg",
+            "team": "KAA 헨트(벨기에)",
+            "position": "MF",
+            "imageURL": "https://www.joinkfa.com/generate/CommonFile/ImageView.do?path=NAT/2023&name=%25EC%2582%25AC%25EC%25A7%2584_2023061611432829770.jpg"
+        },
+        {
+            "id": 12,
+            "koname": "황인범",
+            "enname": "HWANG Inbeom",
+            "birth": "1996.09.20",
+            "heghitweight": "177Cm / 70Kg",
+            "team": "올림피아코스(그리스)",
+            "position": "MF",
+            "imageURL": "https://www.joinkfa.com/generate/CommonFile/ImageView.do?path=NAT/2022&name=%25EC%2582%25AC%25EC%25A7%2584_2022092207341162100.jpg"
+        },
+        {
+            "id": 13,
+            "koname": "황희찬",
+            "enname": "HWANG Heechan",
+            "birth": "1996.01.26",
+            "heghitweight": "177Cm / 77Kg ",
+            "team": "울버햄튼(잉글랜드)",
+            "position": "MF",
+            "imageURL": "https://www.joinkfa.com/generate/CommonFile/ImageView.do?path=NAT/2022&name=%25EC%2582%25AC%25EC%25A7%2584_2022092207342268795.jpg"
+        },
+        {
+            "id": 14,
+            "koname": "김민재",
+            "enname": "KIM Minjae",
+            "birth": "1996.11.15",
+            "heghitweight": "190Cm / 88Kg",
+            "team": "FC 바이에른 뮌헨(독일)",
+            "position": "DF",
+            "imageURL": "https://www.joinkfa.com/generate/CommonFile/ImageView.do?path=NAT/2022&name=%25EC%2582%25AC%25EC%25A7%2584_2022092207292581254.jpg"
+        },
+        {
+            "id": 15,
+            "koname": "김영권",
+            "enname": "KIM Younggwon",
+            "birth": "1990.02.27",
+            "heghitweight": "186Cm / 83Kg",
+            "team": "울산현대",
+            "position": "DF",
+            "imageURL": "https://www.joinkfa.com/generate/CommonFile/ImageView.do?path=NAT/2022&name=%25EC%2582%25AC%25EC%25A7%2584_2022092207293877998.jpg"
+        },
+        {
+            "id": 16,
+            "koname": "김진수",
+            "enname": "KIM Jinsu",
+            "birth": "1992.06.13",
+            "heghitweight": "177Cm / 68Kg",
+            "team": "전북현대모터스",
+            "position": "DF",
+            "imageURL": "https://www.joinkfa.com/generate/CommonFile/ImageView.do?path=NAT/2022&name=%EC%82%AC%EC%A7%84_2022092207295469869.jpg"
+        },
+        {
+            "id": 17,
+            "koname": "박규현",
+            "enname": "PARK Kyuhyun",
+            "birth": "2001.04.14",
+            "heghitweight": "181Cm / 71Kg",
+            "team": "디나모 드레스덴(독일)",
+            "position": "DF",
+            "imageURL": "https://www.joinkfa.com/generate/CommonFile/ImageView.do?path=NAT/2023&name=%EC%82%AC%EC%A7%84_2023061611405611720.jpg"
+        },
+        {
+            "id": 18,
+            "koname": "박지수",
+            "enname": "PARK Jisu",
+            "birth": "1994.06.13",
+            "heghitweight": "187Cm / 77Kg",
+            "team": "우한 쓰리 타운스(중국)",
+            "position": "DF",
+            "imageURL": "https://www.joinkfa.com/generate/CommonFile/ImageView.do?path=NAT/2023&name=%25EC%2582%25AC%25EC%25A7%2584_2023061611411041084.JPG"
+        },
+        {
+            "id": 19,
+            "koname": "설영우",
+            "enname": "SEOL Youngwoo",
+            "birth": "1998.12.05",
+            "heghitweight": "180Cm / 72Kg",
+            "team": "울산현대",
+            "position": "DF",
+            "imageURL": "https://www.joinkfa.com/generate/CommonFile/ImageView.do?path=NAT/2023&name=%25EC%2582%25AC%25EC%25A7%2584_2023032713492058375.jpg"
+        },
+        {
+            "id": 20,
+            "koname": "이기제",
+            "enname": "LEE Kije",
+            "birth": "1991.07.09",
+            "heghitweight": "176Cm / 68Kg",
+            "team": "수원삼성블루윙즈",
+            "position": "DF",
+            "imageURL": "https://www.joinkfa.com/generate/CommonFile/ImageView.do?path=NAT/2023&name=%25EC%2582%25AC%25EC%25A7%2584_202303211104076484.jpg"
+        },
+        {
+            "id": 21,
+            "koname": "정승현",
+            "enname": "JUNG Seunghyun",
+            "birth": "1994.04.03",
+            "heghitweight": "188Cm / 74Kg",
+            "team": "울산현대",
+            "position": "DF",
+            "imageURL": "https://www.joinkfa.com/generate/CommonFile/ImageView.do?path=NAT/2023&name=%25EC%2582%25AC%25EC%25A7%2584_2023061611413427041.jpg"
+        },
+        {
+            "id": 22,
+            "koname": "김승규",
+            "enname": "KIM Seunggyu",
+            "birth": "1990.09.30",
+            "heghitweight": "187Cm / 84Kg",
+            "team": "알샤밥(사우디아라비아)",
+            "position": "GK",
+            "imageURL": "https://www.joinkfa.com/generate/CommonFile/ImageView.do?path=NAT/2022&name=%25EC%2582%25AC%25EC%25A7%2584_2022092207282655182.jpg"
+        },
+        {
+            "id": 23,
+            "koname": "송범근",
+            "enname": "SONG Bumkeun",
+            "birth": "1997.10.15",
+            "heghitweight": "194Cm / 88Kg",
+            "team": "쇼난 벨마레(일본)",
+            "position": "GK",
+            "imageURL": "https://www.joinkfa.com/generate/CommonFile/ImageView.do?path=NAT/2022&name=%25EC%2582%25AC%25EC%25A7%2584_2022092207284443046.jpg"
+        },
+        {
+            "id": 24,
+            "koname": "조현우",
+            "enname": "JO Hyeonwoo",
+            "birth": "1991.09.25",
+            "heghitweight": "189Cm / 75Kg",
+            "team": "울산현대",
+            "position": "GK",
+            "imageURL": "https://www.joinkfa.com/generate/CommonFile/ImageView.do?path=NAT/2023&name=%EC%82%AC%EC%A7%84_2023032110515314049.JPG"
+        }
+    ]
+}
+
